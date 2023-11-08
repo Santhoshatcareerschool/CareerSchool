@@ -1,2 +1,0 @@
-# CareerSchool
-CareerSchool _practice
